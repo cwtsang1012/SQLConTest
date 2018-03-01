@@ -1,0 +1,8 @@
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Debug\SQLConTest.exe.config
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Debug\SQLConTest.exe
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Debug\SQLConTest.pdb
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Debug\SQLConTest.csprojResolveAssemblyReference.cache
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Debug\SQLConTest.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Debug\SQLConTest.exe
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Debug\SQLConTest.pdb
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Debug\DataProtection.dll

@@ -1,0 +1,7 @@
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Release\SQLConTest.exe.config
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Release\SQLConTest.exe
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Release\SQLConTest.pdb
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\bin\Release\DataProtection.dll
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Release\SQLConTest.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Release\SQLConTest.exe
+C:\Users\IBM_ADMIN\Desktop\Grace\TWS\Dummy script for TWS Pilot Run\SQLConTest\SQLConTest\obj\Release\SQLConTest.pdb
